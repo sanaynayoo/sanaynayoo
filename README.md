@@ -1,4 +1,4 @@
-https://pbs.twimg.com/profile_banners/1773024744662601728/1713282860/1500x500
+!(https://github.com/sanaynayoo/sanaynayoo/blob/main/cover.jpg)
 
 # SA NAY NAY OO ( theo )
 
