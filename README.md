@@ -1,5 +1,5 @@
-## Hey there 👋, 
 ![ Mobile Development ](https://github.com/sanaynayoo/sanaynayoo/blob/main/cover.jpg)
+## Hey there 👋, 
 ## Sa Nay Nay Oo ( theo )
 ### About Me
 
