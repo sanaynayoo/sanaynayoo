@@ -37,3 +37,12 @@ I’m Sa Nay Nay Oo but other call me Theo from Myanmar, and developing a mobile
 ## Play Store Portfolio
 
 ![](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae)
+
+- 🌱 I’m currently learning NodeJS / ExpressJS / MongoDB 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanaynayoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanaynayoo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/theonayoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae)  
+
+![GitHub metrics](https://metrics.lecoq.io/sanaynayoo)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sanaynayoo)
