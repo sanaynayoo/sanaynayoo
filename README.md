@@ -25,8 +25,6 @@ I’m Sa Nay Nay Oo but other call me Theo from Myanmar, and developing a mobile
 * Dart
 * 🖥️  React, NextJS, Python, NodeJS, ExpressJS, MongoDB, PostgresSQl
 
-- 🌱 I’m currently learning NodeJS / ExpressJS / MongoDB 
-
 ## Play Store Portfolio
 
 ( [Google Play Store](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae) )
