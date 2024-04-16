@@ -12,4 +12,4 @@ I’m Sa Nay Nay Oo but other call me Theo from Myanmar, and developing a mobile
 * TypeScript
 * Dart
 * JavaScript
-🖥️  NodeJS, React, NextJS, MongoDB, ExpressJS
+* 🖥️  NodeJS, React, NextJS, MongoDB, ExpressJS
