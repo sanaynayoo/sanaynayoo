@@ -5,16 +5,14 @@
 
 I’m Sa Nay Nay Oo but other call me Theo from Myanmar, and developing a mobile app and deploying cross-platform mobile applications. Proficient in developing robust, scalable, and user-friendly mobile solutions using React Native framework and associated technologies. Strong problem-solving abilities, attention to detail, and a commitment to staying updated with the latest trends and best practices in Mobile & Web development.
 
-| Attempt | #1    | #2    |
-| :-----: | :---: | :---: |
-| Seconds | 301   | 283   |
+
 
 ## Soft Skills
-* Team Collaboration             * Project Management
-* Adaptability                   * Client-Facing
-* Communication                  * Critical Thinking
-* Innovative                     * Problem Solving
-* Time Management
+| * Team Collaboration  | * Project Management 
+| * Adaptability        | * Client-Facing 
+| * Communication       | * Critical Thinking
+| * Innovative          | * Problem Solving 
+| * Time Management
 
 ## Techstack In React Native
 * React Native                   * JavaScript   
