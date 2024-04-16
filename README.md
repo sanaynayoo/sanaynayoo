@@ -38,7 +38,7 @@ I’m Sa Nay Nay Oo but other call me Theo from Myanmar, and developing a mobile
 
 ([Google Play Store](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae))
 
-<img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/2.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/3.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/4.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/5.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/6.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/7.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/8.jpg" height="200"/>
+<img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/1.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/2.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/3.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/4.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/5.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/6.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/7.jpg" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/8.jpg" height="200"/>
 
 - 🌱 I’m currently learning NodeJS / ExpressJS / MongoDB 
 
