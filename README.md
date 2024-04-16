@@ -1,7 +1,7 @@
 ![ Mobile Development ](https://github.com/sanaynayoo/sanaynayoo/blob/main/cover.jpg)
 ## 👋  Sa Nay Nay Oo ( theo )
 
-##### I’m Sa Nay Nay Oo ( Theo ) from Myanmar, and developing a mobile app and deploying cross-platform mobile applications. Proficient in developing robust, scalable, and user-friendly mobile solutions using React Native framework and associated technologies. Strong problem-solving abilities, attention to detail, and a commitment to staying updated with the latest trends and best practices in Mobile & Web development.
+   I’m Sa Nay Nay Oo ( Theo ) from Myanmar, and developing a mobile app and deploying cross-platform mobile applications. Proficient in developing robust, scalable, and user-friendly mobile solutions using React Native framework and associated technologies. Strong problem-solving abilities, attention to detail, and a commitment to staying updated with the latest trends and best practices in Mobile & Web development.
 
 ## Soft Skills
 | Innovative | Problem Solving    | Time Management  | Project Management | Client-Facing | Communication | Critical Thinking 
@@ -16,11 +16,11 @@
 
 ## Skills In Programming
 
-* # React Native
-* # JavaScript
-* # TypeScript
-* # Flutter
-* # Dart
+*  React Native
+* JavaScript
+* TypeScript
+* Flutter
+* Dart
 * 🖥️  React, NextJS, Python, NodeJS, ExpressJS, MongoDB, PostgresSQl
 
 ## Portfolio In Google Play Store
