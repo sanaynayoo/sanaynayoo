@@ -12,21 +12,9 @@ I’m Sa Nay Nay Oo but other call me Theo from Myanmar, and developing a mobile
 ## Techstack In React Native
 | React Native  | JavaScript    | TypeScript  | Redux/toolKit | Redux | React Query |
 | :---:   | :---: | :---: |  :---: | :---: | :---: |
-| React Native  | JavaScript    | TypeScript  | Redux/toolKit | Redux | React Query |
-| Pusher | Jotai |
-
-
-*                   *    
-*                      * 
-*                           * 
-*                           * 
-* React Context                  * Crypto JS
-* React Navigation               * Firebase
-* Socket.IO                      * Secure Storage
-* Twilio                         * GitHub / GitLab
-* SQLite                         * OneSignal
-* Pushy                          * Agile/Scrum
-* Microsoft Code Push
+| Pusher  | React Context  | Crypto JS  | React Navigation  | Firebase | Socket.IO |
+| Jotai | Twilio | Secure Storage | SQLite | GitHub / GitLab | OneSignal |
+| Pushy | Microsoft Code Push | Agile/Scrum |
 
 ## Skills and Experience
 
