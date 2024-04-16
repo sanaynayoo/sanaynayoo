@@ -36,14 +36,14 @@ I’m Sa Nay Nay Oo but other call me Theo from Myanmar, and developing a mobile
 
 ## Play Store Portfolio
 
-!([Google Play Store](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae))
+([Google Play Store](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae))
+
+[](https://play-lh.googleusercontent.com/sxmRUtOz6R5H6wT8cwmUJJhUBinCi7rjgaGvcMno7hmaUbhohJqfWcuO3UKwege36sE=w5120-h2880)
 
 - 🌱 I’m currently learning NodeJS / ExpressJS / MongoDB 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanaynayoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanaynayoo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/theonayoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaynayoo&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sanaynayoo)  
 
