@@ -1,4 +1,4 @@
-### Mobile Developer
+## Mobile Developer
 ![ Mobile Development ](https://github.com/sanaynayoo/sanaynayoo/blob/main/cover.jpg)
 
 # SA NAY NAY OO ( theo )
