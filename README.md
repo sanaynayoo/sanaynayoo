@@ -14,9 +14,9 @@
 | Jotai | Twilio | Secure Storage | SQLite | GitHub / GitLab | OneSignal |
 | Pushy | Microsoft Code Push | Agile/Scrum |
 
-## Skills In Programming
+## Skills & Experience
 
-*  React Native
+* React Native
 * JavaScript
 * TypeScript
 * Flutter
