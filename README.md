@@ -38,7 +38,7 @@ I’m Sa Nay Nay Oo but other call me Theo from Myanmar, and developing a mobile
 
 ([Google Play Store](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae))
 
-[](https://play-lh.googleusercontent.com/sxmRUtOz6R5H6wT8cwmUJJhUBinCi7rjgaGvcMno7hmaUbhohJqfWcuO3UKwege36sE=w5120-h2880)
+<img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/1.jpg" width="250"/>
 
 - 🌱 I’m currently learning NodeJS / ExpressJS / MongoDB 
 
