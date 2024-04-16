@@ -7,9 +7,8 @@ I’m Sa Nay Nay Oo but other call me Theo from Myanmar, and developing a mobile
 
 ## Soft Skills
 
-| Innovative | Problem Solving    | Time Management  |
-| :---:   | :---: | :---: |
-| Team Collaboration | Project Management   | Adaptability   |
+| Innovative | Problem Solving    | Time Management  | Project Management
+| :---:   | :---: | :---: |  :---: |
 | Client-Facing | Communication   | Critical Thinking   |
 
 ## Soft Skills
