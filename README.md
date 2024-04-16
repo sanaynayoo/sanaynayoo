@@ -36,7 +36,7 @@ I’m Sa Nay Nay Oo but other call me Theo from Myanmar, and developing a mobile
 
 ## Play Store Portfolio
 
-![](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae)
+!([link](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae))
 
 - 🌱 I’m currently learning NodeJS / ExpressJS / MongoDB 
 
