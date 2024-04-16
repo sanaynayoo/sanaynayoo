@@ -1,4 +1,4 @@
-!(https://github.com/sanaynayoo/sanaynayoo/blob/main/cover.jpg)
+![Mobile Development](https://github.com/sanaynayoo/sanaynayoo/blob/main/cover.jpg)
 
 # SA NAY NAY OO ( theo )
 
