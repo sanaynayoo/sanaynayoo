@@ -30,6 +30,3 @@
 <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_01.png" height="200" />   <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_02.png" height="200" />   <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_03.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_04.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_05.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_06.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_07.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_08.png" height="200" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanaynayoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanaynayoo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/theonayoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae)
- 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sanaynayoo)
