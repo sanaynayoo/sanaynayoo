@@ -1,4 +1,4 @@
-![ Mobile Development ](https://github.com/sanaynayoo/sanaynayoo/blob/main/cover.jpg)
+
 ## 👋  Sa Nay Nay Oo ( theo )
 
  I’m Sa Nay Nay Oo ( Theo ) from Burma, developing a mobile app and deploying cross-platform mobile applications. I really enjoy learning languages and frameworks like React Native, React, Flutter, NodeJS. Proficient in developing robust, scalable, and user-friendly mobile solutions using React Native framework and associated technologies. Strong problem-solving abilities, attention to detail, and a commitment to staying updated with the latest trends and best practices in Mobile & Web development.
