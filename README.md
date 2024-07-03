@@ -12,9 +12,9 @@
 
 
 ## Connect with me 📇
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaynayoo/)
 [![Discord](https://img.shields.io/badge/Discord-5966F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/:1254378962755522636)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/walkwiththeo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaynayoo/)
 
 ## Languages and Tools 🛠
 
