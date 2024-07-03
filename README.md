@@ -7,7 +7,7 @@
 - 👨‍💻 Currently working with [NINE COMPLEX](https://ninecomplex.com) as a Senior React Native Engineer based in Burma.
 - 📚 Currently learning [NodeJS](https://nodejs.org/en).
 - 🎓 Instructor at [CodeCafe Lab](https://www.youtube.com/@CodecafeLab/videos).
-- 💪 Aspiration: Continuously innovate and master new technologies.
+- 💪 Continuously innovate and master new technologies.
 - 📫 Reach me at [sanaynayoo@gmail.com](mailto:sanaynayoo@gmail.com)
 
 
