@@ -35,10 +35,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Portfolio In Google Play Store
+## Stats
 
-( [Google Play Store](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae) )
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
 
-<img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_01.png" height="200" />   <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_02.png" height="200" />   <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_03.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_04.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_05.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_06.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_07.png" height="200" /> <img src="https://github.com/sanaynayoo/sanaynayoo/blob/main/_08.png" height="200" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanaynayoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanaynayoo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/theonayoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://play.google.com/store/apps/details?id=com.sn202.portfolio.ae)
