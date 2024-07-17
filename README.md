@@ -2,7 +2,7 @@
 
 ## 👋 Hi there,
 
- I am SA NAY NAY OO ( Theo ) from Burma, developing a mobile app and deploying cross-platform mobile applications. I really enjoy learning languages and frameworks like NodeJS, JavaScript, TypeScript, React Native, React, Flutter. Proficient in developing robust, scalable, and user-friendly mobile solutions using React Native framework and associated technologies.
+ I'm Sa Nay Nay Oo ( Theo ) from Burma, developing a mobile app and deploying cross-platform mobile applications. I really enjoy learning languages and frameworks like NodeJS, JavaScript, TypeScript, React Native, React, Flutter. Proficient in developing robust, scalable, and user-friendly mobile solutions using React Native framework and associated technologies.
 
 - 👨‍💻 Currently working with [NINE COMPLEX](https://ninecomplex.com) as a Senior React Native Engineer based in Burma.
 - 📚 Currently learning [NodeJS](https://nodejs.org/en).
