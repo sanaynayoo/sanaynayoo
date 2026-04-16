@@ -4,10 +4,10 @@
 
  A passionate Software Engineer from Burma (Myanmar), specializing in building high-quality cross-platform mobile applications. I enjoy transforming ideas into scalable, user-friendly solutions and continuously learning modern technologies to stay at the forefront of innovation.
  
-- 👨‍💻 Currently working with [SureFlow](https://www.sureflow.com/) as a Software Engineer based in United Arab Emirates( UAE ).
-- 📚 Currently learning [NodeJS](https://nodejs.org/en).
-- 💪 Continuously innovate and master new technologies.
-- 📫 Reach me at [sanaynayoo@gmail.com](mailto:sanaynayoo@gmail.com)
+- Software Engineer at [SureFlow](https://www.sureflow.com/), based in the United Arab Emirates (UAE).
+- Currently enhancing my backend development skills with [NodeJS](https://nodejs.org/en).
+- Dedicated to continuous learning, innovation, and building impactful solutions.
+- Reach me at [sanaynayoo@gmail.com](mailto:sanaynayoo@gmail.com)
 
 
 ## Connect with me 📇
